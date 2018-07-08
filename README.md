@@ -20,11 +20,11 @@
 
 ## 直接下载
 
-1. `http://wangwl.net/static/demo/emoji-convert-resource-base/index.js`
-2. `http://wangwl.net/static/demo/emoji-convert-resource-base/xxy.js`
-3. `http://wangwl.net/static/demo/emoji-convert-resource-base/ajmd.js`
-4. `http://wangwl.net/static/demo/emoji-convert-resource-base/xm.js`
-5. `http://wangwl.net/static/demo/emoji-convert-resource-base/hgaj.js`
+1. window.emojiConvertResource_index: `http://wangwl.net/static/demo/emoji-convert-resource-base/index.js`
+2. window.emojiConvertResource_xxy: `http://wangwl.net/static/demo/emoji-convert-resource-base/xxy.js`
+3. window.emojiConvertResource_ajmd: `http://wangwl.net/static/demo/emoji-convert-resource-base/ajmd.js`
+4. window.emojiConvertResource_xm: `http://wangwl.net/static/demo/emoji-convert-resource-base/xm.js`
+5. window.emojiConvertResource_hgaj: `http://wangwl.net/static/demo/emoji-convert-resource-base/hgaj.js`
 
 
 # 使用

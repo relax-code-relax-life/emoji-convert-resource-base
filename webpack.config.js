@@ -10,7 +10,7 @@ module.exports = {
     output: {
         filename: '[name].js',
         path: __dirname + '/dist',
-        library: 'emojiConvertResourceBase',
+        library: 'emojiConvertResource_[name]',
         libraryTarget: 'umd'
     },
     watch: false
